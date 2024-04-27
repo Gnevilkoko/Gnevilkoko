@@ -7,7 +7,6 @@
 
   <br><br><br>
   <div>
-    <img src="source/images/man.svg" width="30">
     <img src="components/profile_visitors.svg"><br>
     <img src="https://profile-counter.glitch.me/Gnevilkoko/count.svg">
   </div>
